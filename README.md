@@ -1,0 +1,2 @@
+# satscan
+Satscan in R
